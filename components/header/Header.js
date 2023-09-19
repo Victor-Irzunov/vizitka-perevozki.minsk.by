@@ -16,7 +16,7 @@ const Header = () => {
 
   return (
     <header
-      className="py-3 relative z-10"
+      className="pt-5 pb-3 relative z-10"
     >
       <div className="container mx-auto">
         <div className="flex xz:flex-col sd:flex-row sd:justify-between xz:justify-center items-center text-white">

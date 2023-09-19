@@ -66,7 +66,7 @@ export default function Home() {
       <section className='relative xz:py-10 xs:py-24 bg-white w-full mt-24'>
         <article className='container mx-auto'>
           <Image src='/logo/logo.webp' alt='' width={150} height={150} className='float-left pr-5 pb-1' />
-          <h2 className='uppercase font-bold mb-3 sd:text-lg xz:text-base'>
+          <h2 className='uppercase font-bold mb-3 sd:text-xl xz:text-lg'>
             Компания по грузоперевозкам в Минске и по всей Беларуси
           </h2>
           <div className='text-justify'>
